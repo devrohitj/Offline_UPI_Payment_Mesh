@@ -216,28 +216,5 @@ upi-offline-mesh/
 
 ---
 
-# Future Production Improvements
-
-| Current | Production |
-|---|---|
-| SQLite | PostgreSQL |
-| In-memory cache | Redis |
-| Simulated mesh | BLE / Wi-Fi Direct |
-| Local keys | AWS KMS / Vault |
-| Single node | Distributed services |
-| No auth | Mutual TLS |
-
----
-
-# Why This Project Matters
-
-This project demonstrates engineering concepts used in:
-- fintech systems,
-- payment gateways,
-- distributed ledgers,
-- offline-first infrastructure,
-- secure transaction processing systems.
-
-It focuses on solving real infrastructure problems instead of simple CRUD operations.
 
 ---
