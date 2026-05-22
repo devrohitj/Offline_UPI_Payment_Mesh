@@ -1,4 +1,4 @@
-# UPI Offline Mesh — FastAPI Edition
+# Offline UPI Transaction Simulator 
 
 > Offline UPI-style payment routing through a Bluetooth mesh network using FastAPI, RSA-OAEP, AES-256-GCM, SQLAlchemy, and distributed idempotency concepts.
 
