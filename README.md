@@ -200,21 +200,3 @@ upi-offline-mesh/
 │
 └── static/
 ```
-
----
-
-# Production-Level Concepts Demonstrated
-
-- Distributed systems design
-- Offline-first architecture
-- Exactly-once processing
-- Authenticated encryption
-- Replay protection
-- Concurrent transaction handling
-- Transaction-safe settlement
-- Service-oriented backend architecture
-
----
-
-
----
